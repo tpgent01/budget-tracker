@@ -77,7 +77,7 @@ Licensed under the MIT license.
 <br>![GitHub repo size](https://img.shields.io/github/repo-size/tpgent01/budget-tracker?color=orange&style=plastic)</br>
 ![GitHub language count](https://img.shields.io/github/languages/count/tpgent01/budget-tracker?color=yellow&style=plastic)
 <br>![GitHub closed issues](https://img.shields.io/github/issues-closed/tpgent01/budget-tracker?color=brightgreen&style=plastic)</br>
-![GitHub last commit](https://img.shields.io/github/last-commit/tpgent01/budget-trackeri?color=blueviolet&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/tpgent01/budget-tracker?color=blueviolet&style=plastic)
 <br>![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tpgent01/budget-tracker?color=ff69b4&style=plastic)</br>
 ![GitHub watchers](https://img.shields.io/github/watchers/tpgent01/budget-tracker?style=social)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/tpgent01/budget-tracker?style=social)</br>
