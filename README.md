@@ -44,6 +44,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 <br>**The following image shows the web application's appearance and functionality:**</br>
 <br>![](public/images/mock-up.png)</br>
 
+
 ## 🔌Installation
 
 The user should clone the repository from GitHub and open up the project in their code editor.
@@ -52,8 +53,8 @@ The user should clone the repository from GitHub and open up the project in thei
 
 ## 💻Usage 
 To run on _localhost:3001_, please run command _npm start_ to start the server and _control C_ to stop.
-<br>[Click me for walkthrough❗️](https://drive.google.com/file/d/1-1pvsp-Cb39Aog0Rt_YPKwxl5enGQCrb/view)</br>
-
+<br>To run program on Heroku, please [click here](https://pacific-falls-07240.herokuapp.com/ ).</br>
+![](public/images/example.png)
 
 
 ## ✏️Dependencies
